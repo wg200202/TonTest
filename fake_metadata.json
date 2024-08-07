@@ -1,0 +1,8 @@
+{
+    "address": "0:90921329ee3d0e856895b4a065fb9f6c15ce82b46fb08795a9d87416cf89c402",
+    "name": "Fake Tether USD",
+    "symbol": "Fake USD₮",
+    "decimals": "6",
+    "image": "https://cache.tonapi.io/imgproxy/T3PB4s7oprNVaJkwqbGg54nexKE0zzKhcrPv8jcWYzU/rs:fill:200:200:1/g:no/aHR0cHM6Ly90ZXRoZXIudG8vaW1hZ2VzL2xvZ29DaXJjbGUucG5n.webp",
+    "description": "Fake Tether Token for Tether USD"
+  }
